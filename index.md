@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Reflective Quantified Self
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Reflect and Know Thyself with Your Data
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Reflective Quantified Self
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Reflect and Know Thyself with Your Data
