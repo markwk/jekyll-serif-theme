@@ -1,7 +1,7 @@
 [
   {
-    "title": "Connect Your Data",
-    "description": "Dozens of integrations make it easy to pull in and sync your data.",
+    "title": "Reflection Enabler",
+    "description": "Stay on track with your goals and aspirations.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Data-Driven Life Dashboard",
-    "description": "View your data and reflections over time.",
+    "title": "Reflection Tracker",
+    "description": "Track your progress and see how far you've come.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "AI-Powered Reflection",
-    "description": "Leverage ChatGPT to converse, learn, and grow.",
+    "title": "Reflection Helper",
+    "description": "Options to get AI help with your reflections.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
